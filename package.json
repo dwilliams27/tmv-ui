@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "d3": "^5.9.7",
     "d3-array": "^2.2.0",
     "d3-axis": "^1.0.12",
     "d3-brush": "^1.1.2",
@@ -15,6 +16,7 @@
     "lodash": "^4.17.15",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-faux-dom": "^4.5.0",
     "react-scripts": "3.0.1",
     "sentiment": "^5.0.1"
   },
